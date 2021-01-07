@@ -1,0 +1,4 @@
+dane,sepal length in cm,sepal width in cm,petal length in cm,petal width in cm,class
+dane dla klasy decyzyjnej 1,5.1,3.5,1.4,0.2,Iris-setosa
+dane dla klasy decyzyjnej 2,7.0,3.2,4.7,1.4,Iris-versicolor
+dane dla klasy decyzyjnej 3,6.3,3.3,6.0,2.5,Iris-virginica
